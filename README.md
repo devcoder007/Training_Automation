@@ -1,5 +1,3 @@
-# Training_Automation
-
 # Angular 8 / Django Rest Framework / JSON Web Token Authentication
 
 This is a Training Automation app showing how to make API calls with Angular 8 and Django Rest Framework, including how to send authentication headers so API calls will function when logged in.
